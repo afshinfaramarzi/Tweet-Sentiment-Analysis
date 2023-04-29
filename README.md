@@ -21,5 +21,5 @@ and the other for validation (validation.csv).
 * Mobile BERT 
 * ALBERT
          
-**Important Note:** Please note that due to my limited computational resources (laptop), I was unable to run pre-trained models on the dataset. It takes a significant amount of time to complete even the first epoch. Therefore, I only created the models and ran the first epoch to ensure there were no errors or bugs. If you have access to more powerful computational resources (GPU or TPU), you are welcome to run the pre-trained models and compare the results with those of RNN and BiLSTM!        
+**Important Note:** Please note that due to my limited computational resources (laptop), I was unable to run pre-trained models on the dataset. Even fine tunning the model for e few epochs takes a significant amount of time in my system. Therefore, I only created the models and ran the first epoch to ensure there were no errors or bugs. If you have access to more powerful computational resources (GPU or TPU), you are welcome to run the pre-trained models and compare the results with those of RNN and BiLSTM!        
           
